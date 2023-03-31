@@ -1,8 +1,8 @@
 // import React from "react"
-export const firstName = "Yoshi";
-export const lastName = "Nagai";
+export const firstName = "Hello";
+export const lastName = "World";
 export const skills = [
-  { skill: "HTML" },
+  { skill: "C#" },
   { skill: "CSS" },
   { skill: "JavaScript" },
   { skill: "TypeScript" },
